@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.crashlytics.data_collection</key>
+	<integer>1</integer>
+	<key>com.crashlytics.install.iid</key>
+	<string>8bfa6b85292649a8138ab52bfde01d5d3a13e25ef70b46e9dd6c453ee6080ad4</string>
+	<key>com.crashlytics.iuuid</key>
+	<string>0098BD55-859A-4E2B-A8FC-5BF9C890DF1E</string>
+</dict>
+</plist>
